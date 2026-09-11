@@ -71,4 +71,4 @@
 
 ***
 
-*联系我：📧 【你的邮箱】・🐙&#x20;*[GitHub](https://github.com/Bari328)
+*联系我：📧 2898830144@qq.com・🐙&#x20;*[GitHub](https://github.com/Bari328)
