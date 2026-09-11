@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm 【Bari】
 
-<!--
-**Bari328/Bari328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 福州大学计算机与大数据学院・计算机科学与技术专业・大三在读
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![头像](https://github.com/Bari328.png)
+
+## 🎯 关于我
+
+
+
+* 🎮 游戏爱好者：炉石传说酒馆战棋、饥荒联机、无畏契约
+
+* 🎵 华语流行乐迷：周杰伦、陶喆、方大同
+
+* 🏋️ 力量训练爱好者，坚持健身
+
+* 🐱 爱猫人士，喜欢研究宠物饲养知识
+
+* 💰 关注理财，对黄金等资产配置感兴趣
+
+* 🎨 喜欢用 AI 辅助做创意编程
+
+**想分享的经历：**
+
+
+
+* 担任高中物理 / 化学家教：把抽象知识讲给零基础学生，学会了 "知识拆解" 与 "换位讲解"，也理解了教学相长
+
+* 用 AI 工具完成 p5.js 创意编程作品，从想法到落地走通全流程
+
+
+## 🛠 技能与成果
+
+**编程语言：** C/C++（熟练）・Python（熟练）・Java（可读可写）・SQL
+
+**技术栈：** Git/GitHub・VS Code・Linux 基础・MySQL・Flask・HTML/CSS/JavaScript
+
+**项目经历：**
+
+
+
+* 【软工实践】基于 HuggingFace Flux 的 AI 图像生成 Web 应用：Flask 后端 + 前端交互 + 云端 API 调用
+
+* 【课程设计】学生信息管理系统（C++/Qt）
+
+**自我评估：**
+
+
+
+* ✅ **已掌握**：数据结构与算法、面向对象编程、数据库基本原理、Web 开发入门（前后端交互、API 调用）、Git 版本控制
+
+* 🔥 **感兴趣方向**：AI 应用开发、Web 全栈
+
+* 📖 **最希望学习**：软件架构设计、机器学习、深度学习、工程化开发流程（CI/CD、自动化测试）
+
+## 🗺 未来三年规划（考研）
+
+
+
+1. **大二下～大三上（夯实基础）**：学好数据结构、操作系统、计算机网络、计算机组成原理（考研 408 四门核心课）；保持绩点；完成软工课程项目，积累代码量
+
+2. **大三（确定目标）**：确定目标院校与专业方向，系统复习考研数学、英语、408
+
+3. **大四（冲刺上岸）**：强化与冲刺复习，参加初试与复试
+
+**为什么考研：** 想在计算机领域深入发展，希望通过研究生阶段系统学习 AI / 软件工程方向的知识；提升专业深度与就业竞争力，进入更高的平台。
+
+
+
+***
+
+*联系我：📧 【你的邮箱】・🐙&#x20;*[GitHub](https://github.com/Bari328)
